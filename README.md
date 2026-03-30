@@ -46,7 +46,7 @@ PhonePe Pulse is India's first open digital payments dataset, publicly released 
 
 ## 🚀 Live Demo
 
-> **[https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)**
+> **[https://phonepe-pulse-harsh.streamlit.app/](https://phonepe-pulse-harsh.streamlit.app/)**
 
 The live dashboard includes:
 - KPI cards with real transaction totals (₹345 Trillion decoded)
